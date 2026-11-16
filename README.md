@@ -33,9 +33,9 @@
 
 | | Project | What it does | Built with |
 |:-:|---|---|---|
+| 🎬 | **Arclor** | An AI video director, in progress. Your coding agent writes the scenes; Arclor runs the whole film and checks every frame. | `TypeScript` `MCP` `Remotion` `AI agents` |
 | 🧠 | **[Gito](https://github.com/Mohanyadav-codes/Gito---Github-repo-partner)** | Paste a GitHub link and talk to the codebase. Hybrid RAG over the code, chat UI and CLI. | `Python` `RAG` `React` |
 | 👁️ | **[Vision Attendance](https://github.com/Mohanyadav-codes/Computer-Vision-AI-attendance-system)** | Face-recognition attendance that can't be fooled by someone walking past. | `Python` `OpenCV` `Flask` `React` |
-| 🎬 | **Arclor** | An AI video director, in progress. Your coding agent writes the scenes; Arclor runs the whole film and checks every frame. | `TypeScript` `MCP` `Remotion` `AI agents` |
 | 🃏 | **[Jester AI](https://github.com/Mohanyadav-codes/Jester-AI)** | An agent that does dark work, in the funniest way possible. | `AI agents` `LLMs` |
 | ⚡ | **[API Ninja](https://github.com/Mohanyadav-codes/API-Ninja)** | A fast, dark API testing client in the browser. | `React` `Tailwind` |
 
