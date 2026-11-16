@@ -1,4 +1,4 @@
-<a href="https://mohanbuilds.com">
+<a href="https://mohanbuilds.space">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05070c,55:0b1226,100:1a2340&text=MOHAN%20BUILDS&fontColor=ffd21f&fontSize=64&fontAlignY=38&desc=Full-stack%20AI%20engineer%20%C2%B7%20DTU%2C%203rd%20year&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Mohan Builds" />
 </a>
 
@@ -22,7 +22,7 @@
   <tr>
     <td width="96" align="center"><img src="cutdeck.png" width="72" alt="Cutdeck" /></td>
     <td>
-      <b><a href="https://cutdeck.mohanbuilds.com">Cutdeck</a></b> · <i>Long videos in. Shorts out.</i><br />
+      <b><a href="https://cutdeck.mohanbuilds.space">Cutdeck</a></b> · <i>Long videos in. Shorts out.</i><br />
       Paste a YouTube, Kick or Twitch link. Cutdeck finds the moments worth posting, frames them vertical and adds word-by-word captions, all on your own computer.<br />
       <sub><code>Rust</code> <code>Tauri</code> <code>React</code> <code>Whisper</code> <code>LLMs</code> <code>FFmpeg</code> · Windows · Free</sub>
     </td>
@@ -62,6 +62,6 @@
 🎧 Into music, a bit. 🎬 Making videos on [YouTube](https://www.youtube.com/@Mohan.Builds) about the things I build.
 
 
-<a href="https://mohanbuilds.com">
+<a href="https://mohanbuilds.space">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1a2340,45:0b1226,100:05070c" width="100%" alt="" />
 </a>
